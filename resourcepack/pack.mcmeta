@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "The resource pack companion to the everything example datapack",
+        "pack_format": 64
+    }
+}
