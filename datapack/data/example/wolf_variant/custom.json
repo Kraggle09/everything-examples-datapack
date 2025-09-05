@@ -1,0 +1,12 @@
+{
+  "assets": {
+    "angry": "example:entity/wolf/custom_angry",
+    "tame": "example:entity/wolf/custom_tame",
+    "wild": "example:entity/wolf/custom"
+  },
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
