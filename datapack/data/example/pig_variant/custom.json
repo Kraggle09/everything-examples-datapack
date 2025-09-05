@@ -1,0 +1,9 @@
+{
+  "asset_id": "example:entity/cow/custom",
+  "model": "normal",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
